@@ -6,3 +6,6 @@ Contains mostly UI setup
 
 # Password.py
 Contains the method's that generate the password and/or passphrase, also includes variables that alter the resulting password (such as including numbers or symbols)  
+
+# Wordlist.txt
+Contains a list of 3000 common english words for use in the passphrase generator
